@@ -7,7 +7,7 @@
 ## Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,react,tailwind,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,react,tailwind,mysql,mongodb,docker" />
   </a>
 </p>
 
