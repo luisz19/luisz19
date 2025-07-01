@@ -1,17 +1,16 @@
-## Sobre mim
+## About Me
 
+- Fullstack Developer  
+- Information Systems Student
 
-- Desenvolvedor Fullstack
-- Cursando Sistemas de Informação
- 
-## Tecnologias
+## Technologies
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,react,tailwind,mysql,mongodb,docker" />
   </a>
 </p>
 
-## Ferramentas
+## Tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,vscode,figma" />
@@ -30,8 +29,3 @@
 <div align="center">
   <img height="200em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9ydzNjdGNidDN2ZTgzcDJ0eG1neTg2NWdobGFod2FhMm42ZXU1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
 </div>
-   
-
-
-
-
